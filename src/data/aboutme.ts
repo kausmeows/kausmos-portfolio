@@ -23,7 +23,7 @@ export const aboutMe: AboutMe = {
   organisation: "Wendor",
   // Note that links work in the description
     description: `
-    I'm currently working as an <u>ML Engineer at Wendor</u>, focusing on building AI & IoT-based smart vending solutions.<br />
+    I'm currently working as a <u>Software Engineer at Wendor</u>, focusing on building AI & IoT-based smart vending solutions.<br />
     I recently completed my undergrad in <u>Computer Science from IIIT Ranchi</u>.<br /><br />
     Previously, I worked as a <u>Machine Learning Engineer at Cofactory</u>, a Silicon Valley startup, where I led the development of an open-sourced Python package, <a href="https://github.com/cofactoryai/textbase">Textbase</a> (with over 1k GitHub stars 🌟), that enables users to build and deploy multimodal AI chatbots with a single command.<br /><br />
     Earlier last year, I did a <a href="https://github.com/kausmeows/EmotionGUI-UoA">research internship</a> under a <a href="https://drive.google.com/file/d/1Fv-Qy9O_SWk7FKF_Xq6owq8LVkmba31K/view">scholarship</a> at the <u>University of Auckland, New Zealand</u>, in the signal processing lab of the ECSE department and had a great time collaborating with amazing people and exploring the beautiful Kiwi land 🇳🇿.<br /><br />
