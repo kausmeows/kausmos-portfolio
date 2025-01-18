@@ -10,7 +10,7 @@ export const educationData: Education[] = [
   {
     year: "2020—2024",
     institution: "Indian Institute of Information Technology Ranchi",
-    degree: "BTech in Computer Science",
+    degree: "B.Tech in Computer Science",
     imageUrl: "/institution-image.png"
   },
 ];
