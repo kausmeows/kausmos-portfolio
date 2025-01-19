@@ -40,8 +40,7 @@ export const experienceData: Experience[] = [
       "AI-enhanced edge computing in drones",
     companyUrl: "https://www.cofactory.ai",
     imageUrl: "/clearspot-logo.png",
-    "location": `Paris, Île-de-France, France · Remote"
-  `
+    "location": `Paris, Île-de-France, France · Remote`
   },
   {
     date: "Dec 2022 - Feb 2023 · 3 mos",
