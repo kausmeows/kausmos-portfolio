@@ -12,8 +12,19 @@ export interface Experience {
 
 export const experienceData: Experience[] = [
   {
-    date: "Feb 2024- Present · 1 yr",
-    title: "Software Engineer - ML & IOT",
+    date: "Mar 2025- Present · 2 mo",
+    title: "Software Engineer (L4)",
+    company: "Agno",
+    description: `
+    Leading the development and maintenance of #1 open-sourced Agents SDK with over 23k+ GitHub stars and the agents orchestration platform.
+    `,
+    companyUrl: "https://www.agno.com",
+    imageUrl: "/agno-logo.png",
+    "location": "New York City, USA · Remote"
+  },
+  {
+    date: "Feb 2024- Present · 1 yr 2 mos",
+    title: "Software Engineer (ML & IOT)",
     company: "Wendor",
     description: `
     Building first in India ML infra for vending machines that don't suck.

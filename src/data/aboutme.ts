@@ -19,20 +19,19 @@ export interface AboutMe {
 
 export const aboutMe: AboutMe = {
   name: "Kaustubh Shukla",
-  title: "Machine Learning Engineer",
-  organisation: "Wendor",
+  title: "Senior Software Engineer",
+  organisation: "Agno",
   // Note that links work in the description
     description: `
-    I'm currently working as a <u>Software Engineer at Wendor</u>, focusing on building AI & IoT-based smart vending solutions.<br />
-    I recently completed my undergrad in <u>Computer Science from IIIT Ranchi</u>.<br /><br />
+    I'm currently working as a <u>Senior Software Engineer at Agno</u> and lead the development and maintenance of the #1 open-sourced agents SDK.<br />
+    I completed my undergrad in <u>Computer Science from IIIT Ranchi</u>.<br /><br />
     Previously, I worked as a <u>Machine Learning Engineer at Cofactory</u>, a Silicon Valley startup, where I led the development of an open-sourced Python package, <a href="https://github.com/cofactoryai/textbase">Textbase</a> (with over 1k GitHub stars 🌟), that enables users to build and deploy multimodal AI chatbots with a single command.<br /><br />
     Earlier last year, I did a <a href="https://github.com/kausmeows/EmotionGUI-UoA">research internship</a> under a <a href="https://drive.google.com/file/d/1Fv-Qy9O_SWk7FKF_Xq6owq8LVkmba31K/view">scholarship</a> at the <u>University of Auckland, New Zealand</u>, in the signal processing lab of the ECSE department and had a great time collaborating with amazing people and exploring the beautiful Kiwi land 🇳🇿.<br /><br />
     I'm interested in all things <u>ML, Backend Dev, Hardware, OSS and intersections b/w tech, writing and books.</u><br />
     I find the correlations between ML algorithms and the human mind fascinating.
   `,
   email: "shuklakaustubh84@gmail.com",
-  imageUrl:
-    "https://images.unsplash.com/photo-1581481615985-ba4775734a9b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  imageUrl: "/pfp.jpg",
   // googleScholarUrl: "https://scholar.google.com/citations?user=bWtMl_MAAAAJ",
   githubUsername: "kausmeows",
   linkedinUsername: "kausmos",
